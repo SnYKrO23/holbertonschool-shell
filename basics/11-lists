@@ -1,2 +1,2 @@
 #!/bin/bash
-find /tmp /var /boot -type f -exec ls -l {} +
+ls -la /boot/ .. .
